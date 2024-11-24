@@ -1,0 +1,23 @@
+nav
+{
+    background-color: #1C181E;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    justify-content: space-around;
+}
+.nav-links ul
+{
+    list-style-type: none;
+    display: flex;
+}
+.nav-links a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.logo img
+{
+    width: 120px;
+    height: 120px;
+}
